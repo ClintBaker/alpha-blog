@@ -13,8 +13,17 @@ Rails.application.routes.draw do
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
+  
+  
+  
+  
   root 'pages#home'
   get 'about', to: 'pages#about'
+  
+  resources :articles
+  
+  
+  
   # Example resource route with options:
   #   resources :products do
   #     member do
