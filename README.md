@@ -6,6 +6,9 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+
+
 
 Welcome to your Rails project on Cloud9 IDE!
 
